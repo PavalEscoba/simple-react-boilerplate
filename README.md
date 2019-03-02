@@ -1,4 +1,6 @@
 # Simple React Boilerplate
+__proto__
+\_\_proto\_\_
 
 My own react boilerplate with webpack, jest and eslint
 
